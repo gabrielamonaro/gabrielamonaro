@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Gabriela Monaro 👋
 
 - 💻 Desenvolvedora Front-End em progresso!
-- 🌱 Atualmente estou estudando React JS e TypeScript. 
+- 🌱 Atualmente estou estudando Angular e TypeScript. 
 - 🏢 Procuro uma oportunidade de estágio em Front-End.
 
 ##
